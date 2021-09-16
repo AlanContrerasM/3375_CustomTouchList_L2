@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2_ViewDemo</string>
+    <string name="txtViewWelcomeMsg">Any welcome message you want</string>
+    <string name="ImgDesc">BirdFire</string>
+    <string name="btnShowText">Show Text</string>
+    <string name="btnShowBoth">Show Both</string>
+</resources>
